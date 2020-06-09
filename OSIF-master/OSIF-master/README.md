@@ -7,10 +7,10 @@
                                            (o o)          
                                        ooO--(_)--Ooo
                                        
-                                          O S I F
-                            [open source information facebook]
+                                         M S T E R
+                            [FEACBOOK TOOL BY MASTER HACK]
 ```
-OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
+MASTER is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
 
 
 
@@ -18,8 +18,8 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 ```
 $ pkg update upgrade
 $ pkg install git python2
-$ git clone https://github.com/ciku370/OSIF
-$ cd OSIF
+$ git clone https://github.com/Hussam448/MASTER99
+$ cd MASTER99
 ```
 
 # [ Setup ]
@@ -28,7 +28,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 osif.py
+$ python2 master.py
 ```
 # [ Screenshot ]
 <img src=".images/osif.png "/>
